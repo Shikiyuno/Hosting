@@ -78,16 +78,76 @@
   ],
   "artifacts": [
     {
-      "hash": "fe2da80436706c6d3fc1e23204a6892a6688261b51964c6353521a09c7bfec91",
+      "hash": "92b4f1304cb2a82627d414be8ab6864f1b5df08c835d71adf3313c32ee502e45",
       "name": "game.jar",
       "path": "https://github.com/Shikiyuno/hosting/raw/main/client/live/repo/game.jar",
       "size": 1897954
     },
     {
-      "hash": "eb847319fa6a76b15894234545bd890ef3a1d3f5f17e39998895be5a7357b4b5",
+      "hash": "8d64b8b9b2cce21b481430c093201fdf5e9852455681d493053171d0a2aa10a0",
       "name": "runelite-0.0.1.jar",
       "path": "https://github.com/Shikiyuno/hosting/raw/main/client/live/repo/runelite-0.0.1.jar",
-      "size": 12357793
+      "size": 12357814
+    },
+    {
+      "hash": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
+      "name": "rs-cache-library-6.9.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/displee/rs-cache-library/6.9/rs-cache-library-6.9.jar",
+      "size": 101025
+    },
+    {
+      "hash": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
+      "name": "disio-2.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/displee/disio/2.2/disio-2.2.jar",
+      "size": 19825
+    },
+    {
+      "hash": "2314c48aa1a39c05c11f3b385cdf3c56b1745f064314e4feabecebc1572b3ac1",
+      "name": "kotlinx-coroutines-core-jvm-1.5.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.5.2/kotlinx-coroutines-core-jvm-1.5.2.jar",
+      "size": 1481065
+    },
+    {
+      "hash": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
+      "name": "kotlin-stdlib-jdk8-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar",
+      "size": 969
+    },
+    {
+      "hash": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
+      "name": "kotlin-stdlib-jdk7-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar",
+      "size": 963
+    },
+    {
+      "hash": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
+      "name": "okhttp-4.9.1.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.9.1/okhttp-4.9.1.jar",
+      "size": 791390
+    },
+    {
+      "hash": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
+      "name": "klaxon-5.5.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/beust/klaxon/5.5/klaxon-5.5.jar",
+      "size": 166681
+    },
+    {
+      "hash": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
+      "name": "okio-jvm-2.8.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
+      "size": 243179
+    },
+    {
+      "hash": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
+      "name": "kotlin-reflect-1.4.31.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.4.31/kotlin-reflect-1.4.31.jar",
+      "size": 2974474
+    },
+    {
+      "hash": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
+      "name": "kotlin-stdlib-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.22/kotlin-stdlib-1.8.22.jar",
+      "size": 1670469
     },
     {
       "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
@@ -186,12 +246,6 @@
       "size": 145616
     },
     {
-      "hash": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
-      "name": "rs-cache-library-6.9.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/displee/rs-cache-library/6.9/rs-cache-library-6.9.jar",
-      "size": 101025
-    },
-    {
       "hash": "53b3c99c025f7344960d8a410df5792caba4444dd82c18606a572f7361127f98",
       "name": "netty-buffer-4.1.79.Final.jar",
       "path": "https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.jar",
@@ -222,60 +276,6 @@
       "size": 2067172
     },
     {
-      "hash": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
-      "name": "okhttp-4.9.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.9.1/okhttp-4.9.1.jar",
-      "size": 791390
-    },
-    {
-      "hash": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
-      "name": "klaxon-5.5.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/beust/klaxon/5.5/klaxon-5.5.jar",
-      "size": 166681
-    },
-    {
-      "hash": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
-      "name": "okio-jvm-2.8.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
-      "size": 243179
-    },
-    {
-      "hash": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
-      "name": "kotlin-reflect-1.4.31.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.4.31/kotlin-reflect-1.4.31.jar",
-      "size": 2974474
-    },
-    {
-      "hash": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
-      "name": "disio-2.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/displee/disio/2.2/disio-2.2.jar",
-      "size": 19825
-    },
-    {
-      "hash": "2314c48aa1a39c05c11f3b385cdf3c56b1745f064314e4feabecebc1572b3ac1",
-      "name": "kotlinx-coroutines-core-jvm-1.5.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.5.2/kotlinx-coroutines-core-jvm-1.5.2.jar",
-      "size": 1481065
-    },
-    {
-      "hash": "b3aca0539c58326223b07dc7c0ac79b5a875ba80cb91ee1609ec89bb37b8990e",
-      "name": "kotlin-stdlib-jdk8-1.5.30.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.30/kotlin-stdlib-jdk8-1.5.30.jar",
-      "size": 16121
-    },
-    {
-      "hash": "7ce040646e6b9af662c96bbb988a1adcd4c994834d424e16960fa79fff93825d",
-      "name": "kotlin-stdlib-jdk7-1.5.30.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.30/kotlin-stdlib-jdk7-1.5.30.jar",
-      "size": 22986
-    },
-    {
-      "hash": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
-      "name": "kotlin-stdlib-1.8.22.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.22/kotlin-stdlib-1.8.22.jar",
-      "size": 1670469
-    },
-    {
       "hash": "4e69696892b88b41c55d49ab2fdcc21eead92bf54acc588c0050596c3b75199c",
       "name": "json-simple-1.1.1.jar",
       "path": "https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar",
@@ -304,6 +304,12 @@
       "name": "xstream-1.4.20.jar",
       "path": "https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.20/xstream-1.4.20.jar",
       "size": 644649
+    },
+    {
+      "hash": "d0c2365e2437ef70f34586d50f055743f79716bcfe65e4bc7239cdd2669ef7c5",
+      "name": "kotlin-stdlib-common-1.8.22.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.22/kotlin-stdlib-common-1.8.22.jar",
+      "size": 221491
     },
     {
       "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
@@ -644,12 +650,6 @@
       "size": 310104
     },
     {
-      "hash": "d0c2365e2437ef70f34586d50f055743f79716bcfe65e4bc7239cdd2669ef7c5",
-      "name": "kotlin-stdlib-common-1.8.22.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.22/kotlin-stdlib-common-1.8.22.jar",
-      "size": 221491
-    },
-    {
       "hash": "c30719db974d6452793fe191b3638a5777005485bae145924044530ffa5f6122",
       "name": "junit-4.13.1.jar",
       "path": "https://repo.maven.apache.org/maven2/junit/junit/4.13.1/junit-4.13.1.jar",
@@ -754,8 +754,18 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game.jar": "fe2da80436706c6d3fc1e23204a6892a6688261b51964c6353521a09c7bfec91",
-    "runelite-0.0.1.jar": "eb847319fa6a76b15894234545bd890ef3a1d3f5f17e39998895be5a7357b4b5",
+    "game.jar": "92b4f1304cb2a82627d414be8ab6864f1b5df08c835d71adf3313c32ee502e45",
+    "runelite-0.0.1.jar": "8d64b8b9b2cce21b481430c093201fdf5e9852455681d493053171d0a2aa10a0",
+    "rs-cache-library-6.9.jar": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
+    "disio-2.2.jar": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
+    "kotlinx-coroutines-core-jvm-1.5.2.jar": "2314c48aa1a39c05c11f3b385cdf3c56b1745f064314e4feabecebc1572b3ac1",
+    "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
+    "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
+    "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
+    "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
+    "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
+    "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
+    "kotlin-stdlib-1.8.22.jar": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
     "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
     "Notify-3.7.jar": "8627ce0a8a60a5f03989073e55ff5db5f8c7c9da9a95a41da4b86930a9b7a45b",
     "reflections-0.10.2.jar": "938a2d08fe54050d7610b944d8ddc3a09355710d9e6be0aac838dbc04e9a2825",
@@ -772,26 +782,17 @@
     "jackson-databind-2.12.7.1.jar": "3f504cac405ce066d5665ff69541484d5322f35ac7a7ec6104cf86a01008e02d",
     "gson-2.8.9.jar": "d3999291855de495c94c743761b8ab5176cfeabe281a5ab0d8e8d45326fd703e",
     "reflections8-0.11.7.jar": "721477456f75acab46e1b737ca84627c9d531831e33b54303c6a5bd071bafc22",
-    "rs-cache-library-6.9.jar": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
     "netty-buffer-4.1.79.Final.jar": "53b3c99c025f7344960d8a410df5792caba4444dd82c18606a572f7361127f98",
     "streamex-0.8.1.jar": "84dbfa4730565134504d65cdd823341c8b2ee655e2d1c5f004cf95bff0180655",
     "commons-compress-1.21.jar": "6aecfd5459728a595601cfa07258d131972ffc39b492eb48bdd596577a2f244a",
     "xz-1.9.jar": "211b306cfc44f8f96df3a0a3ddaf75ba8c5289eed77d60d72f889bb855f535e5",
     "discord-rpc-1.6.2.jar": "9d347944144ab5d777e16d6e8be108de0c5bf5f6c8cf4f2e04e5d2dd69fbb54e",
-    "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
-    "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
-    "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
-    "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
-    "disio-2.2.jar": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
-    "kotlinx-coroutines-core-jvm-1.5.2.jar": "2314c48aa1a39c05c11f3b385cdf3c56b1745f064314e4feabecebc1572b3ac1",
-    "kotlin-stdlib-jdk8-1.5.30.jar": "b3aca0539c58326223b07dc7c0ac79b5a875ba80cb91ee1609ec89bb37b8990e",
-    "kotlin-stdlib-jdk7-1.5.30.jar": "7ce040646e6b9af662c96bbb988a1adcd4c994834d424e16960fa79fff93825d",
-    "kotlin-stdlib-1.8.22.jar": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
     "json-simple-1.1.1.jar": "4e69696892b88b41c55d49ab2fdcc21eead92bf54acc588c0050596c3b75199c",
     "jaxb-api-2.3.1.jar": "88b955a0df57880a26a74708bc34f74dcaf8ebf4e78843a28b50eae945732b06",
     "progressbar-0.9.5.jar": "a1a086fa66f85c49bb3ca701a78cebb33647f367d4a5be8588c784d56272cc6e",
     "annotations-24.0.0.jar": "ff112f54ce874b8ae899cfd68f0315d96c9f406a338b8eca80c76d10e2e5a2f7",
     "xstream-1.4.20.jar": "87df0f0be57c92037d0110fbb225a30b651702dc275653d285afcfef31bc2e81",
+    "kotlin-stdlib-common-1.8.22.jar": "d0c2365e2437ef70f34586d50f055743f79716bcfe65e4bc7239cdd2669ef7c5",
     "flatlaf-3.2.5-rl4.jar": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
     "protobuf-javalite-3.21.7.jar": "43945d791ece2012bb9086907e124ff814afd4014209f67cc89e7f324390c061",
     "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5",
@@ -839,7 +840,6 @@
     "ant-1.10.7.jar": "dab4d3b2e45b73aec95cb25ce5050a651ad060f50f74662bbc3c1cb406ec1d19",
     "netty-common-4.1.79.Final.jar": "1a0da37e96dbc41bbe56fc11e621a1718ef2b31f6bcc3f489ba2d22c235e6a3c",
     "snakeyaml-1.27.jar": "7e7cce6740ed705bfdfaac7b442c1375d2986d2f2935936a5bd40c14e18fd736",
-    "kotlin-stdlib-common-1.8.22.jar": "d0c2365e2437ef70f34586d50f055743f79716bcfe65e4bc7239cdd2669ef7c5",
     "junit-4.13.1.jar": "c30719db974d6452793fe191b3638a5777005485bae145924044530ffa5f6122",
     "javax.activation-api-1.2.0.jar": "43fdef0b5b6ceb31b0424b208b930c74ab58fac2ceeb7b3f6fd3aeb8b5ca4393",
     "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
