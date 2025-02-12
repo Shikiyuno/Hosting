@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "3ff10a38407cfa596a0889a300c1ba6e6774f7554d80915a488032b4fed52623",
+      "hash": "b97e0ba439df94d126dc0b89154d42d28863fa1572159d0a2b0a7a742d776c55",
       "name": "game.jar",
       "path": "https://github.com/Shikiyuno/hosting/raw/main/client/live/repo/game.jar",
-      "size": 3239098
+      "size": 3241626
     },
     {
       "hash": "b4f35a571c95d798b9861a096daaeff97177bed20e5ccd7bbccddb0f1654fce9",
@@ -688,7 +688,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game.jar": "3ff10a38407cfa596a0889a300c1ba6e6774f7554d80915a488032b4fed52623",
+    "game.jar": "b97e0ba439df94d126dc0b89154d42d28863fa1572159d0a2b0a7a742d776c55",
     "runelite-0.0.1.jar": "b4f35a571c95d798b9861a096daaeff97177bed20e5ccd7bbccddb0f1654fce9",
     "rs-cache-library-6.9.jar": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
     "disio-2.2.jar": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
